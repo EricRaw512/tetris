@@ -21,4 +21,4 @@ Welcome to Tetris, a classic block puzzle game! Move, rotate, and drop the falli
     cd tetris
     ```
 
-2. **Open with IDE and run it
+2. **Open with IDE and run it**
