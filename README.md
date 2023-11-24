@@ -2,7 +2,7 @@
 
 Welcome to Tetris, a classic block puzzle game! Move, rotate, and drop the falling blocks to complete rows and earn the highest score. Can you achieve the highest point?
 
-![alt text]()https://github.com/EricRaw512/image/blob/main/Tetris.png?raw=true
+![alt text](https://github.com/EricRaw512/image/blob/main/Tetris.png?raw=true)
 
 ## Gameplay
 
@@ -21,4 +21,4 @@ Welcome to Tetris, a classic block puzzle game! Move, rotate, and drop the falli
     cd tetris
     ```
 
-2. **Open `index.html` in a Web Browser:**
+2. **Open with IDE and run it
